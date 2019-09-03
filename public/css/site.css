@@ -1,0 +1,19 @@
+.body {
+  background-color: lightblue;
+}
+
+#Heading2 {
+  color: black;
+  font-family: fantasy;
+}
+
+#Heading1{
+  color: Brown;
+  font-family: monospace;
+}
+
+.intro {
+  color: navy;
+  font-family: cursive;
+  font-size: 20px;
+}
